@@ -1,0 +1,5282 @@
+[
+{
+"eval_id": "neet-2025-45-001-en",
+"source": "neet2025",
+"qid": "neet-2025-45-001",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-001-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-001",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-002-en",
+"source": "neet2025",
+"qid": "neet-2025-45-002",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-002-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-002",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-003-en",
+"source": "neet2025",
+"qid": "neet-2025-45-003",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-003-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-003",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-004-en",
+"source": "neet2025",
+"qid": "neet-2025-45-004",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-004-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-004",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-005-en",
+"source": "neet2025",
+"qid": "neet-2025-45-005",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-005-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-005",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-006-en",
+"source": "neet2025",
+"qid": "neet-2025-45-006",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-006-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-006",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-007-en",
+"source": "neet2025",
+"qid": "neet-2025-45-007",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-007-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-007",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-008-en",
+"source": "neet2025",
+"qid": "neet-2025-45-008",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-008-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-008",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-009-en",
+"source": "neet2025",
+"qid": "neet-2025-45-009",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-009-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-009",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-010-en",
+"source": "neet2025",
+"qid": "neet-2025-45-010",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-010-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-010",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-011-en",
+"source": "neet2025",
+"qid": "neet-2025-45-011",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-011-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-011",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-012-en",
+"source": "neet2025",
+"qid": "neet-2025-45-012",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-012-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-012",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-013-en",
+"source": "neet2025",
+"qid": "neet-2025-45-013",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-013-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-013",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-014-en",
+"source": "neet2025",
+"qid": "neet-2025-45-014",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-014-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-014",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-015-en",
+"source": "neet2025",
+"qid": "neet-2025-45-015",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-015-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-015",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-016-en",
+"source": "neet2025",
+"qid": "neet-2025-45-016",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-016-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-016",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-017-en",
+"source": "neet2025",
+"qid": "neet-2025-45-017",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-017-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-017",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-018-en",
+"source": "neet2025",
+"qid": "neet-2025-45-018",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-018-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-018",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-019-en",
+"source": "neet2025",
+"qid": "neet-2025-45-019",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-019-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-019",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-020-en",
+"source": "neet2025",
+"qid": "neet-2025-45-020",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-020-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-020",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-021-en",
+"source": "neet2025",
+"qid": "neet-2025-45-021",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-021-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-021",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-022-en",
+"source": "neet2025",
+"qid": "neet-2025-45-022",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-022-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-022",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-023-en",
+"source": "neet2025",
+"qid": "neet-2025-45-023",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-023-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-023",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-024-en",
+"source": "neet2025",
+"qid": "neet-2025-45-024",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-024-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-024",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-025-en",
+"source": "neet2025",
+"qid": "neet-2025-45-025",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-025-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-025",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-026-en",
+"source": "neet2025",
+"qid": "neet-2025-45-026",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-026-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-026",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-027-en",
+"source": "neet2025",
+"qid": "neet-2025-45-027",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-027-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-027",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-028-en",
+"source": "neet2025",
+"qid": "neet-2025-45-028",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-028-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-028",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-029-en",
+"source": "neet2025",
+"qid": "neet-2025-45-029",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-029-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-029",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-030-en",
+"source": "neet2025",
+"qid": "neet-2025-45-030",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-030-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-030",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-031-en",
+"source": "neet2025",
+"qid": "neet-2025-45-031",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-031-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-031",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-032-en",
+"source": "neet2025",
+"qid": "neet-2025-45-032",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-032-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-032",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-033-en",
+"source": "neet2025",
+"qid": "neet-2025-45-033",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-033-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-033",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-034-en",
+"source": "neet2025",
+"qid": "neet-2025-45-034",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-034-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-034",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-035-en",
+"source": "neet2025",
+"qid": "neet-2025-45-035",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-035-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-035",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-036-en",
+"source": "neet2025",
+"qid": "neet-2025-45-036",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-036-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-036",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-037-en",
+"source": "neet2025",
+"qid": "neet-2025-45-037",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-037-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-037",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-038-en",
+"source": "neet2025",
+"qid": "neet-2025-45-038",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-038-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-038",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-039-en",
+"source": "neet2025",
+"qid": "neet-2025-45-039",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-039-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-039",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-040-en",
+"source": "neet2025",
+"qid": "neet-2025-45-040",
+"lang": "en",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-040-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-040",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-041-en",
+"source": "neet2025",
+"qid": "neet-2025-45-041",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-041-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-041",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-042-en",
+"source": "neet2025",
+"qid": "neet-2025-45-042",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-042-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-042",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-043-en",
+"source": "neet2025",
+"qid": "neet-2025-45-043",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-043-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-043",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-044-en",
+"source": "neet2025",
+"qid": "neet-2025-45-044",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-044-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-044",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-045-en",
+"source": "neet2025",
+"qid": "neet-2025-45-045",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-045-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-045",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-046-en",
+"source": "neet2025",
+"qid": "neet-2025-45-046",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-046-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-046",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-047-en",
+"source": "neet2025",
+"qid": "neet-2025-45-047",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-047-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-047",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-048-en",
+"source": "neet2025",
+"qid": "neet-2025-45-048",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-048-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-048",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-049-en",
+"source": "neet2025",
+"qid": "neet-2025-45-049",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-049-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-049",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-050-en",
+"source": "neet2025",
+"qid": "neet-2025-45-050",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-050-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-050",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-051-en",
+"source": "neet2025",
+"qid": "neet-2025-45-051",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-051-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-051",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-052-en",
+"source": "neet2025",
+"qid": "neet-2025-45-052",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-052-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-052",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-053-en",
+"source": "neet2025",
+"qid": "neet-2025-45-053",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-053-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-053",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-054-en",
+"source": "neet2025",
+"qid": "neet-2025-45-054",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-054-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-054",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-055-en",
+"source": "neet2025",
+"qid": "neet-2025-45-055",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-055-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-055",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-056-en",
+"source": "neet2025",
+"qid": "neet-2025-45-056",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-056-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-056",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-057-en",
+"source": "neet2025",
+"qid": "neet-2025-45-057",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-057-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-057",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-058-en",
+"source": "neet2025",
+"qid": "neet-2025-45-058",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-058-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-058",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-059-en",
+"source": "neet2025",
+"qid": "neet-2025-45-059",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-059-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-059",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-060-en",
+"source": "neet2025",
+"qid": "neet-2025-45-060",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-060-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-060",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-061-en",
+"source": "neet2025",
+"qid": "neet-2025-45-061",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-061-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-061",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-062-en",
+"source": "neet2025",
+"qid": "neet-2025-45-062",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-062-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-062",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-063-en",
+"source": "neet2025",
+"qid": "neet-2025-45-063",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-063-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-063",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-064-en",
+"source": "neet2025",
+"qid": "neet-2025-45-064",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-064-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-064",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-065-en",
+"source": "neet2025",
+"qid": "neet-2025-45-065",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-065-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-065",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-066-en",
+"source": "neet2025",
+"qid": "neet-2025-45-066",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-066-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-066",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-067-en",
+"source": "neet2025",
+"qid": "neet-2025-45-067",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-067-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-067",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-068-en",
+"source": "neet2025",
+"qid": "neet-2025-45-068",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-068-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-068",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-069-en",
+"source": "neet2025",
+"qid": "neet-2025-45-069",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-069-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-069",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-070-en",
+"source": "neet2025",
+"qid": "neet-2025-45-070",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-070-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-070",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-071-en",
+"source": "neet2025",
+"qid": "neet-2025-45-071",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-071-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-071",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-072-en",
+"source": "neet2025",
+"qid": "neet-2025-45-072",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-072-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-072",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-073-en",
+"source": "neet2025",
+"qid": "neet-2025-45-073",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-073-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-073",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-074-en",
+"source": "neet2025",
+"qid": "neet-2025-45-074",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-074-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-074",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-075-en",
+"source": "neet2025",
+"qid": "neet-2025-45-075",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-075-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-075",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-076-en",
+"source": "neet2025",
+"qid": "neet-2025-45-076",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-076-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-076",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-077-en",
+"source": "neet2025",
+"qid": "neet-2025-45-077",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-077-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-077",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-078-en",
+"source": "neet2025",
+"qid": "neet-2025-45-078",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-078-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-078",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-079-en",
+"source": "neet2025",
+"qid": "neet-2025-45-079",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-079-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-079",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-080-en",
+"source": "neet2025",
+"qid": "neet-2025-45-080",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-080-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-080",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-081-en",
+"source": "neet2025",
+"qid": "neet-2025-45-081",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-081-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-081",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-082-en",
+"source": "neet2025",
+"qid": "neet-2025-45-082",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-082-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-082",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-083-en",
+"source": "neet2025",
+"qid": "neet-2025-45-083",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-083-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-083",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-084-en",
+"source": "neet2025",
+"qid": "neet-2025-45-084",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-084-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-084",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-085-en",
+"source": "neet2025",
+"qid": "neet-2025-45-085",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-085-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-085",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-086-en",
+"source": "neet2025",
+"qid": "neet-2025-45-086",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-086-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-086",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-087-en",
+"source": "neet2025",
+"qid": "neet-2025-45-087",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-087-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-087",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-088-en",
+"source": "neet2025",
+"qid": "neet-2025-45-088",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-088-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-088",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-089-en",
+"source": "neet2025",
+"qid": "neet-2025-45-089",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-089-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-089",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-090-en",
+"source": "neet2025",
+"qid": "neet-2025-45-090",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-090-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-090",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-091-en",
+"source": "neet2025",
+"qid": "neet-2025-45-091",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-091-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-091",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-092-en",
+"source": "neet2025",
+"qid": "neet-2025-45-092",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-092-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-092",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-093-en",
+"source": "neet2025",
+"qid": "neet-2025-45-093",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-093-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-093",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-094-en",
+"source": "neet2025",
+"qid": "neet-2025-45-094",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-094-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-094",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-095-en",
+"source": "neet2025",
+"qid": "neet-2025-45-095",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-095-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-095",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-096-en",
+"source": "neet2025",
+"qid": "neet-2025-45-096",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-096-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-096",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-097-en",
+"source": "neet2025",
+"qid": "neet-2025-45-097",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-097-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-097",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-098-en",
+"source": "neet2025",
+"qid": "neet-2025-45-098",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-098-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-098",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-099-en",
+"source": "neet2025",
+"qid": "neet-2025-45-099",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-099-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-099",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-100-en",
+"source": "neet2025",
+"qid": "neet-2025-45-100",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-100-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-100",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-101-en",
+"source": "neet2025",
+"qid": "neet-2025-45-101",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-101-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-101",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-102-en",
+"source": "neet2025",
+"qid": "neet-2025-45-102",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-102-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-102",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-103-en",
+"source": "neet2025",
+"qid": "neet-2025-45-103",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-103-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-103",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-104-en",
+"source": "neet2025",
+"qid": "neet-2025-45-104",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-104-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-104",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-105-en",
+"source": "neet2025",
+"qid": "neet-2025-45-105",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-105-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-105",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-106-en",
+"source": "neet2025",
+"qid": "neet-2025-45-106",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-106-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-106",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-107-en",
+"source": "neet2025",
+"qid": "neet-2025-45-107",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-107-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-107",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-108-en",
+"source": "neet2025",
+"qid": "neet-2025-45-108",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-108-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-108",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-109-en",
+"source": "neet2025",
+"qid": "neet-2025-45-109",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-109-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-109",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-110-en",
+"source": "neet2025",
+"qid": "neet-2025-45-110",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-110-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-110",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-111-en",
+"source": "neet2025",
+"qid": "neet-2025-45-111",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-111-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-111",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-112-en",
+"source": "neet2025",
+"qid": "neet-2025-45-112",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-112-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-112",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-113-en",
+"source": "neet2025",
+"qid": "neet-2025-45-113",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-113-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-113",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-114-en",
+"source": "neet2025",
+"qid": "neet-2025-45-114",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-114-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-114",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-115-en",
+"source": "neet2025",
+"qid": "neet-2025-45-115",
+"lang": "en",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-115-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-115",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-116-en",
+"source": "neet2025",
+"qid": "neet-2025-45-116",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-116-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-116",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-117-en",
+"source": "neet2025",
+"qid": "neet-2025-45-117",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-117-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-117",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-118-en",
+"source": "neet2025",
+"qid": "neet-2025-45-118",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-118-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-118",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-119-en",
+"source": "neet2025",
+"qid": "neet-2025-45-119",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-119-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-119",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-120-en",
+"source": "neet2025",
+"qid": "neet-2025-45-120",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-120-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-120",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-121-en",
+"source": "neet2025",
+"qid": "neet-2025-45-121",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-121-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-121",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-122-en",
+"source": "neet2025",
+"qid": "neet-2025-45-122",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-122-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-122",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-123-en",
+"source": "neet2025",
+"qid": "neet-2025-45-123",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-123-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-123",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-124-en",
+"source": "neet2025",
+"qid": "neet-2025-45-124",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-124-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-124",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-125-en",
+"source": "neet2025",
+"qid": "neet-2025-45-125",
+"lang": "en",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-125-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-125",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-126-en",
+"source": "neet2025",
+"qid": "neet-2025-45-126",
+"lang": "en",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-126-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-126",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-127-en",
+"source": "neet2025",
+"qid": "neet-2025-45-127",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-127-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-127",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-128-en",
+"source": "neet2025",
+"qid": "neet-2025-45-128",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-128-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-128",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-129-en",
+"source": "neet2025",
+"qid": "neet-2025-45-129",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-129-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-129",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-130-en",
+"source": "neet2025",
+"qid": "neet-2025-45-130",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-130-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-130",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-131-en",
+"source": "neet2025",
+"qid": "neet-2025-45-131",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-131-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-131",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-132-en",
+"source": "neet2025",
+"qid": "neet-2025-45-132",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-132-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-132",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-133-en",
+"source": "neet2025",
+"qid": "neet-2025-45-133",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-133-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-133",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-134-en",
+"source": "neet2025",
+"qid": "neet-2025-45-134",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-134-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-134",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-135-en",
+"source": "neet2025",
+"qid": "neet-2025-45-135",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-135-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-135",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-136-en",
+"source": "neet2025",
+"qid": "neet-2025-45-136",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-136-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-136",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-137-en",
+"source": "neet2025",
+"qid": "neet-2025-45-137",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-137-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-137",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-138-en",
+"source": "neet2025",
+"qid": "neet-2025-45-138",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-138-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-138",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-139-en",
+"source": "neet2025",
+"qid": "neet-2025-45-139",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-139-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-139",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-140-en",
+"source": "neet2025",
+"qid": "neet-2025-45-140",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-140-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-140",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-141-en",
+"source": "neet2025",
+"qid": "neet-2025-45-141",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-141-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-141",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-142-en",
+"source": "neet2025",
+"qid": "neet-2025-45-142",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-142-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-142",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-143-en",
+"source": "neet2025",
+"qid": "neet-2025-45-143",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-143-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-143",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-144-en",
+"source": "neet2025",
+"qid": "neet-2025-45-144",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-144-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-144",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-145-en",
+"source": "neet2025",
+"qid": "neet-2025-45-145",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-145-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-145",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-146-en",
+"source": "neet2025",
+"qid": "neet-2025-45-146",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-146-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-146",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-147-en",
+"source": "neet2025",
+"qid": "neet-2025-45-147",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-147-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-147",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-148-en",
+"source": "neet2025",
+"qid": "neet-2025-45-148",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-148-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-148",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-149-en",
+"source": "neet2025",
+"qid": "neet-2025-45-149",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-149-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-149",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-150-en",
+"source": "neet2025",
+"qid": "neet-2025-45-150",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-150-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-150",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-151-en",
+"source": "neet2025",
+"qid": "neet-2025-45-151",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-151-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-151",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-152-en",
+"source": "neet2025",
+"qid": "neet-2025-45-152",
+"lang": "en",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-152-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-152",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": true
+},
+{
+"eval_id": "neet-2025-45-153-en",
+"source": "neet2025",
+"qid": "neet-2025-45-153",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-153-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-153",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-154-en",
+"source": "neet2025",
+"qid": "neet-2025-45-154",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-154-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-154",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-155-en",
+"source": "neet2025",
+"qid": "neet-2025-45-155",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-155-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-155",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-156-en",
+"source": "neet2025",
+"qid": "neet-2025-45-156",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-156-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-156",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-157-en",
+"source": "neet2025",
+"qid": "neet-2025-45-157",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-157-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-157",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-158-en",
+"source": "neet2025",
+"qid": "neet-2025-45-158",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-158-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-158",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-159-en",
+"source": "neet2025",
+"qid": "neet-2025-45-159",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-159-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-159",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-160-en",
+"source": "neet2025",
+"qid": "neet-2025-45-160",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-160-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-160",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-161-en",
+"source": "neet2025",
+"qid": "neet-2025-45-161",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-161-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-161",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-162-en",
+"source": "neet2025",
+"qid": "neet-2025-45-162",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-162-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-162",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-163-en",
+"source": "neet2025",
+"qid": "neet-2025-45-163",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-163-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-163",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-164-en",
+"source": "neet2025",
+"qid": "neet-2025-45-164",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-164-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-164",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-165-en",
+"source": "neet2025",
+"qid": "neet-2025-45-165",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-165-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-165",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-166-en",
+"source": "neet2025",
+"qid": "neet-2025-45-166",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-166-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-166",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-167-en",
+"source": "neet2025",
+"qid": "neet-2025-45-167",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-167-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-167",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-168-en",
+"source": "neet2025",
+"qid": "neet-2025-45-168",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-168-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-168",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-169-en",
+"source": "neet2025",
+"qid": "neet-2025-45-169",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-169-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-169",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-170-en",
+"source": "neet2025",
+"qid": "neet-2025-45-170",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-170-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-170",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-171-en",
+"source": "neet2025",
+"qid": "neet-2025-45-171",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-171-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-171",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-172-en",
+"source": "neet2025",
+"qid": "neet-2025-45-172",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-172-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-172",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-173-en",
+"source": "neet2025",
+"qid": "neet-2025-45-173",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-173-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-173",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-174-en",
+"source": "neet2025",
+"qid": "neet-2025-45-174",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-174-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-174",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-175-en",
+"source": "neet2025",
+"qid": "neet-2025-45-175",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-175-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-175",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-176-en",
+"source": "neet2025",
+"qid": "neet-2025-45-176",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-176-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-176",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-177-en",
+"source": "neet2025",
+"qid": "neet-2025-45-177",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-177-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-177",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-178-en",
+"source": "neet2025",
+"qid": "neet-2025-45-178",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-178-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-178",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-179-en",
+"source": "neet2025",
+"qid": "neet-2025-45-179",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-179-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-179",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-180-en",
+"source": "neet2025",
+"qid": "neet-2025-45-180",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "neet-2025-45-180-hi",
+"source": "neet2025",
+"qid": "neet-2025-45-180",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p020-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph107-p020-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p020-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph107-p020-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph103-p010-0-q3-en",
+"source": "ncert_mcq",
+"qid": "keph103-p010-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph103-p010-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph103-p010-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p022-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph201-p022-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p022-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph201-p022-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p019-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph106-p019-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p019-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph106-p019-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p012-0-q0-en",
+"source": "ncert_mcq",
+"qid": "keph206-p012-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p012-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph206-p012-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p006-1-q0-en",
+"source": "ncert_mcq",
+"qid": "keph105-p006-1-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p006-1-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph105-p006-1-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p010-0-q1-en",
+"source": "ncert_mcq",
+"qid": "keph104-p010-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p010-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph104-p010-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p020-0-q3-en",
+"source": "ncert_mcq",
+"qid": "keph105-p020-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p020-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph105-p020-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p001-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph201-p001-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p001-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph201-p001-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p003-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph204-p003-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p003-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph204-p003-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph102-p025-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph102-p025-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph102-p025-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph102-p025-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph103-p013-0-q1-en",
+"source": "ncert_mcq",
+"qid": "leph103-p013-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph103-p013-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "leph103-p013-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph205-p009-1-q2-en",
+"source": "ncert_mcq",
+"qid": "keph205-p009-1-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph205-p009-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "keph205-p009-1-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p017-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph206-p017-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p017-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph206-p017-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p001-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph107-p001-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p001-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph107-p001-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p008-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph206-p008-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p008-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph206-p008-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p006-0-q0-en",
+"source": "ncert_mcq",
+"qid": "keph105-p006-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p006-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph105-p006-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p011-0-q0-en",
+"source": "ncert_mcq",
+"qid": "keph105-p011-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p011-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph105-p011-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p009-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph107-p009-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p009-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph107-p009-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p029-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph104-p029-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p029-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph104-p029-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p007-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph107-p007-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p007-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph107-p007-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph203-p014-0-q2-en",
+"source": "ncert_mcq",
+"qid": "keph203-p014-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph203-p014-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "keph203-p014-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p011-1-q3-en",
+"source": "ncert_mcq",
+"qid": "keph206-p011-1-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p011-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph206-p011-1-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p013-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph104-p013-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p013-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph104-p013-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph207-p008-1-q0-en",
+"source": "ncert_mcq",
+"qid": "keph207-p008-1-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph207-p008-1-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph207-p008-1-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph201-p012-0-q3-en",
+"source": "ncert_mcq",
+"qid": "keph201-p012-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph201-p012-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph201-p012-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p015-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph106-p015-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p015-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph106-p015-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph102-p001-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph102-p001-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph102-p001-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph102-p001-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p016-0-q1-en",
+"source": "ncert_mcq",
+"qid": "leph204-p016-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p016-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "leph204-p016-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p030-0-q1-en",
+"source": "ncert_mcq",
+"qid": "keph106-p030-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p030-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph106-p030-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p014-0-q1-en",
+"source": "ncert_mcq",
+"qid": "keph105-p014-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph105-p014-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph105-p014-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p005-0-q1-en",
+"source": "ncert_mcq",
+"qid": "leph104-p005-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph104-p005-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "leph104-p005-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph107-p007-0-q0-en",
+"source": "ncert_mcq",
+"qid": "keph107-p007-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph107-p007-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph107-p007-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph202-p003-1-q3-en",
+"source": "ncert_mcq",
+"qid": "keph202-p003-1-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph202-p003-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph202-p003-1-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph201-p012-0-q1-en",
+"source": "ncert_mcq",
+"qid": "keph201-p012-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph201-p012-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph201-p012-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p022-0-q1-en",
+"source": "ncert_mcq",
+"qid": "leph201-p022-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph201-p022-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "leph201-p022-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p011-1-q2-en",
+"source": "ncert_mcq",
+"qid": "keph206-p011-1-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph206-p011-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "keph206-p011-1-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p012-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph204-p012-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph204-p012-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph204-p012-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p016-0-q0-en",
+"source": "ncert_mcq",
+"qid": "keph106-p016-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p016-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "keph106-p016-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p003-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph107-p003-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph107-p003-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph107-p003-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p010-0-q3-en",
+"source": "ncert_mcq",
+"qid": "leph106-p010-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p010-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "leph106-p010-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph101-p001-0-q1-en",
+"source": "ncert_mcq",
+"qid": "leph101-p001-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph101-p001-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "leph101-p001-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p007-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph106-p007-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p007-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph106-p007-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p006-1-q1-en",
+"source": "ncert_mcq",
+"qid": "keph104-p006-1-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p006-1-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph104-p006-1-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p004-0-q0-en",
+"source": "ncert_mcq",
+"qid": "leph206-p004-0-q0",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph206-p004-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "leph206-p004-0-q0",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph207-p004-0-q3-en",
+"source": "ncert_mcq",
+"qid": "keph207-p004-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph207-p004-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph207-p004-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph101-p029-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph101-p029-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph101-p029-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph101-p029-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p007-0-q1-en",
+"source": "ncert_mcq",
+"qid": "keph106-p007-0-q1",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph106-p007-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "keph106-p007-0-q1",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p009-0-q2-en",
+"source": "ncert_mcq",
+"qid": "leph106-p009-0-q2",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "leph106-p009-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "leph106-p009-0-q2",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p009-0-q3-en",
+"source": "ncert_mcq",
+"qid": "keph104-p009-0-q3",
+"lang": "en",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "keph104-p009-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "keph104-p009-0-q3",
+"lang": "hi",
+"subject": "Physics",
+"has_figure": false
+},
+{
+"eval_id": "lech205-p010-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech205-p010-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech205-p010-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech205-p010-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p010-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech201-p010-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p010-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech201-p010-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p009-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lech101-p009-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p009-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lech101-p009-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p027-1-q2-en",
+"source": "ncert_mcq",
+"qid": "kech105-p027-1-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p027-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p027-1-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech101-p018-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kech101-p018-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech101-p018-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kech101-p018-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech104-p014-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kech104-p014-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech104-p014-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech104-p014-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech204-p013-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech204-p013-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech204-p013-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech204-p013-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech104-p018-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech104-p018-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech104-p018-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech104-p018-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p023-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech106-p023-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p023-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p023-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech205-p012-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech205-p012-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech205-p012-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech205-p012-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p036-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kech202-p036-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p036-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kech202-p036-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p021-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lech202-p021-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p021-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lech202-p021-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p032-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kech105-p032-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p032-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p032-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p012-1-q3-en",
+"source": "ncert_mcq",
+"qid": "kech106-p012-1-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p012-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p012-1-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p031-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lech202-p031-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p031-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lech202-p031-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech102-p009-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lech102-p009-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech102-p009-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lech102-p009-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech103-p014-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lech103-p014-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech103-p014-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lech103-p014-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p016-1-q2-en",
+"source": "ncert_mcq",
+"qid": "kech105-p016-1-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p016-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p016-1-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p015-1-q3-en",
+"source": "ncert_mcq",
+"qid": "kech105-p015-1-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p015-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p015-1-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p011-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kech102-p011-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p011-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kech102-p011-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p014-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lech101-p014-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p014-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lech101-p014-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech103-p027-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lech103-p027-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech103-p027-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lech103-p027-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p036-2-q1-en",
+"source": "ncert_mcq",
+"qid": "kech106-p036-2-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p036-2-q1-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p036-2-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech105-p011-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech105-p011-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech105-p011-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech105-p011-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech104-p013-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lech104-p013-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech104-p013-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lech104-p013-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p026-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech106-p026-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p026-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p026-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p015-1-q0-en",
+"source": "ncert_mcq",
+"qid": "kech102-p015-1-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p015-1-q0-hi",
+"source": "ncert_mcq",
+"qid": "kech102-p015-1-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech201-p003-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lech201-p003-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech201-p003-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lech201-p003-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p031-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lech203-p031-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p023-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech105-p023-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p023-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p023-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech204-p021-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lech204-p021-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech204-p021-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lech204-p021-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p013-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lech203-p013-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech203-p013-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lech203-p013-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech104-p018-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech104-p018-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech104-p018-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech104-p018-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech101-p009-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kech101-p009-0-q0",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech101-p009-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kech101-p009-0-q0",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p038-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kech106-p038-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p038-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p038-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p017-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kech201-p017-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p017-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kech201-p017-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p025-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech202-p025-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p025-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech202-p025-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech203-p014-1-q3-en",
+"source": "ncert_mcq",
+"qid": "kech203-p014-1-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech203-p014-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech203-p014-1-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p009-1-q3-en",
+"source": "ncert_mcq",
+"qid": "kech202-p009-1-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p009-1-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech202-p009-1-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech201-p011-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lech201-p011-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech201-p011-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lech201-p011-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p023-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kech106-p023-0-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech106-p023-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech106-p023-0-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p032-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lech202-p032-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech202-p032-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lech202-p032-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech103-p011-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kech103-p011-0-q1",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech103-p011-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kech103-p011-0-q1",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p005-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kech102-p005-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech102-p005-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kech102-p005-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p015-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lech101-p015-0-q3",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lech101-p015-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lech101-p015-0-q3",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p016-1-q2-en",
+"source": "ncert_mcq",
+"qid": "kech202-p016-1-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech202-p016-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech202-p016-1-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p020-1-q2-en",
+"source": "ncert_mcq",
+"qid": "kech105-p020-1-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech105-p020-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech105-p020-1-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p010-1-q2-en",
+"source": "ncert_mcq",
+"qid": "kech201-p010-1-q2",
+"lang": "en",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "kech201-p010-1-q2-hi",
+"source": "ncert_mcq",
+"qid": "kech201-p010-1-q2",
+"lang": "hi",
+"subject": "Chemistry",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p017-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo104-p017-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p017-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo104-p017-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p003-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo106-p003-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p003-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo106-p003-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p014-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo109-p014-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p014-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo109-p014-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo117-p001-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo117-p001-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo117-p001-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo117-p001-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p011-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo101-p011-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p011-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo101-p011-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p001-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kebo114-p001-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p001-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kebo114-p001-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p007-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo119-p007-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p007-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo119-p007-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p017-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo101-p017-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p017-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo101-p017-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo109-p008-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo109-p008-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo109-p008-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo109-p008-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p003-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo104-p003-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p003-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo104-p003-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo115-p008-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kebo115-p008-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo115-p008-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kebo115-p008-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p015-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kebo109-p015-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p015-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kebo109-p015-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p015-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo104-p015-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p015-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo104-p015-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p011-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo108-p011-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p011-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo108-p011-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo112-p006-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kebo112-p006-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo112-p006-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kebo112-p006-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p013-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kebo119-p013-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p013-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kebo119-p013-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p011-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo104-p011-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p011-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo104-p011-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p005-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo105-p005-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p005-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo105-p005-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p019-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo101-p019-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo101-p019-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo101-p019-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p006-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo106-p006-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p006-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo106-p006-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p011-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo113-p011-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p011-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo113-p011-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo105-p007-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo105-p007-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo105-p007-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo105-p007-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo106-p011-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo106-p011-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo106-p011-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo106-p011-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo117-p012-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kebo117-p012-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo117-p012-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kebo117-p012-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p004-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo106-p004-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p004-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo106-p004-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p003-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo119-p003-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo119-p003-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo119-p003-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p002-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo109-p002-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo109-p002-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo109-p002-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo106-p004-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo106-p004-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo106-p004-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo106-p004-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p011-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lebo105-p011-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p011-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lebo105-p011-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo111-p011-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lebo111-p011-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo111-p011-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lebo111-p011-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p008-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo113-p008-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p008-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo113-p008-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p031-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo105-p031-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p031-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo105-p031-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p001-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo105-p001-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo105-p001-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo105-p001-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p005-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo106-p005-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo106-p005-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo106-p005-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo112-p005-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo112-p005-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo112-p005-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo112-p005-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo108-p007-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kebo108-p007-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo108-p007-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kebo108-p007-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo105-p005-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo105-p005-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo105-p005-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo105-p005-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p008-0-q3-en",
+"source": "ncert_mcq",
+"qid": "kebo114-p008-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p008-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "kebo114-p008-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo118-p004-0-q0-en",
+"source": "ncert_mcq",
+"qid": "kebo118-p004-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo118-p004-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "kebo118-p004-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p002-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo104-p002-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo104-p002-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo104-p002-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo102-p014-0-q1-en",
+"source": "ncert_mcq",
+"qid": "lebo102-p014-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo102-p014-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "lebo102-p014-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p003-0-q1-en",
+"source": "ncert_mcq",
+"qid": "kebo114-p003-0-q1",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p003-0-q1-hi",
+"source": "ncert_mcq",
+"qid": "kebo114-p003-0-q1",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo107-p021-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo107-p021-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo107-p021-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo107-p021-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo111-p022-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo111-p022-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo111-p022-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo111-p022-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p010-0-q0-en",
+"source": "ncert_mcq",
+"qid": "lebo113-p010-0-q0",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo113-p010-0-q0-hi",
+"source": "ncert_mcq",
+"qid": "lebo113-p010-0-q0",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo109-p002-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo109-p002-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo109-p002-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo109-p002-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p006-0-q2-en",
+"source": "ncert_mcq",
+"qid": "kebo114-p006-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "kebo114-p006-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "kebo114-p006-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p008-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo108-p008-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p008-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo108-p008-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p007-0-q2-en",
+"source": "ncert_mcq",
+"qid": "lebo108-p007-0-q2",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo108-p007-0-q2-hi",
+"source": "ncert_mcq",
+"qid": "lebo108-p007-0-q2",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo110-p004-0-q3-en",
+"source": "ncert_mcq",
+"qid": "lebo110-p004-0-q3",
+"lang": "en",
+"subject": "Biology",
+"has_figure": false
+},
+{
+"eval_id": "lebo110-p004-0-q3-hi",
+"source": "ncert_mcq",
+"qid": "lebo110-p004-0-q3",
+"lang": "hi",
+"subject": "Biology",
+"has_figure": false
+}
+]

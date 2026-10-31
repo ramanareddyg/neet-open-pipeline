@@ -1,0 +1,14 @@
+google-genai
+python-dotenv
+pydantic
+numpy
+pymupdf
+pypdf
+pillow
+pyyaml
+matplotlib
+modal
+openai
+anthropic
+safetensors
+sentence-transformers
